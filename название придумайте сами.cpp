@@ -6,9 +6,10 @@ using namespace std;
 
 
 int main()
-{	//Задание 1.Симулятор рисовальщика по стенам.
+{   //Задание 1.Симулятор рисовальщика по стенам.
+		
+    setlocale(0, "");
 	
-	setlocale(0, "");
     double h, w, l;
     double n, m, r;
     double res;
